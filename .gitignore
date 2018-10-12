@@ -1,4 +1,4 @@
 node_modules
 *.log
-./server.cer
-./server.key
+server.cer
+server.key
