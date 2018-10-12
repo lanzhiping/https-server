@@ -2,7 +2,7 @@
 
 Simple HTTPS Server For Debugging
 
-`bash yarn`
+`yarn`
 
 `yarn start -- YOUR_TARGET_IP`
 
