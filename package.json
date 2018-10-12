@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "license": "MIT",
+  "author": "lanzhiping6@gmail.com",
   "scripts": {
     "start": "node server.js",
     "postinstall": "bash generate_certifications.sh"
