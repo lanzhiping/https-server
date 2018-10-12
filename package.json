@@ -1,0 +1,14 @@
+{
+  "name": "https",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "postinstall": "bash generate_certifications.sh"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "http-proxy-middleware": "^0.19.0"
+  }
+}
